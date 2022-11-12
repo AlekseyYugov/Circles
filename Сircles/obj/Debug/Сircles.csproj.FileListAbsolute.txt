@@ -1,0 +1,14 @@
+D:\Project_C#\Сircles\Сircles\bin\Debug\Сircles.exe.config
+D:\Project_C#\Сircles\Сircles\bin\Debug\Сircles.exe
+D:\Project_C#\Сircles\Сircles\bin\Debug\Сircles.pdb
+D:\Project_C#\Сircles\Сircles\bin\Debug\sfml-audio.dll
+D:\Project_C#\Сircles\Сircles\bin\Debug\sfml-graphics.dll
+D:\Project_C#\Сircles\Сircles\bin\Debug\sfml-learning.dll
+D:\Project_C#\Сircles\Сircles\bin\Debug\sfml-system.dll
+D:\Project_C#\Сircles\Сircles\bin\Debug\sfml-window.dll
+D:\Project_C#\Сircles\Сircles\obj\Debug\Сircles.csproj.AssemblyReference.cache
+D:\Project_C#\Сircles\Сircles\obj\Debug\Сircles.csproj.SuggestedBindingRedirects.cache
+D:\Project_C#\Сircles\Сircles\obj\Debug\Сircles.csproj.CoreCompileInputs.cache
+D:\Project_C#\Сircles\Сircles\obj\Debug\Сircles.csproj.CopyComplete
+D:\Project_C#\Сircles\Сircles\obj\Debug\Сircles.exe
+D:\Project_C#\Сircles\Сircles\obj\Debug\Сircles.pdb
